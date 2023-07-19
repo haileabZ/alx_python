@@ -9,4 +9,4 @@ elif last_digit!=0 and last_digit>5:
 elif last_digit!=0 and last_digit<6:
   print("last digit of "+str(number)+" is "+str(last_digit) + " and is less than 6 and not 0")
 else:
-  print("last digit of "+str(number)+" is "+str(last_digit) +" and is zero")
+  print("last digit of "+str(number)+" is "+str(last_digit) +" and is 0")
